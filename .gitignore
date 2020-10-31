@@ -1,0 +1,28 @@
+mybatis-generator.xml
+
+target/
+.scannerwork/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+log.xml
+
+log/
+.DS_Store
+cache/
+.mvn/
+mvnw
+mvnw.cmd
+contract_test_file1.jpg
